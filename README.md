@@ -6,8 +6,5 @@ Bu proje, Selçuk Üniversitesi Bilgisayar Mühendisliği bölümünde "Veri Tab
 - İş Arama ve İşveren Buluşma Platformu
 - Kavramsal Model, ER Diyagramları, İlişkisel Cebir İfadeleri, Normalizasyon, SQL Sorguları, Stored Procedures ve Trigger yapıları içermektedir.
 
-## Dosyalar
-- `213311118-İsmail Apan.pdf` : Tüm proje raporu.
-
 ## Hazırlayan
 - İsmail Apan
